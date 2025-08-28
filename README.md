@@ -23,7 +23,7 @@
 将本项目下载到您的服务器或本地电脑。
 
 ```bash
-git clone [您的仓库地址]
+git clone https://github.com/doge-8/Weather-Pusher.git
 cd Weather-Pusher
 ```
 
